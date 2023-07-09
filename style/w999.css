@@ -1,0 +1,35 @@
+#background-texts{
+    display: none;
+}
+.skill-img img {
+    height: 65%;
+}
+
+.skills {
+    width: 50%;
+    align-content: center;
+}
+
+.skill {
+    height: 25px;
+    margin: 25px 0;
+}
+
+.skill-level h2 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.my-info h2 {
+    font-size: 50px;
+}
+.my-info h3 {
+    font-size: 25px;
+}
+.my-info p {
+    padding-right: 0rem;
+}
+.info-img img {
+    width: 60%;
+    height: 80%;
+}
